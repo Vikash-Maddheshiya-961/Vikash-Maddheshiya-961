@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me  
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 🎓 Student of **Computer Science and Engineering** at [MMMUT](https://www.mmmut.ac.in/)  
+- 🎓 Graduated B.Tech in **Computer Science and Engineering** from [MMMUT](https://www.mmmut.ac.in/)  
 - 💻 Skilled in **HTML, CSS, and JavaScript** for frontend development  
 - 🌱 Currently learning **Full Stack Web Development** and exploring modern web technologies  
 - 📚 Qualified **GATE 2025** with **Gate Score: 585** and **AIR: 3575**  
