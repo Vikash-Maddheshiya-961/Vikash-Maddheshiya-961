@@ -16,10 +16,13 @@
 ## 👨‍💻 About Me  
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-- 🎓 Graduated B.Tech in **Computer Science and Engineering** from [MMMUT](https://www.mmmut.ac.in/)  
+- 🎓 Graduated B.Tech in **Computer Science and Engineering** from [MMMUT](https://www.mmmut.ac.in/)
+- 🎓 Going to persue my M.Tech in **Computer Science and Information Security** from [IIIT HYDERABAD](https://www.iiit.ac.in/)
 - 💻 Skilled in **HTML, CSS, and JavaScript** for frontend development  
-- 🌱 Currently learning **Full Stack Web Development** and exploring modern web technologies  
-- 📚 Qualified **GATE 2025** with **Gate Score: 585** and **AIR: 3575**  
+- 🌱 Currently learning **Full Stack Web Development** and exploring modern web technologies
+- 🌱 Currently learning **Data Structures and Algorithms** and **AI/ML**
+- 📚 Qualified **GATE 2025** with **Gate Score: 585** and **AIR: 3575**
+- 📚 Qualified **GATE 2026** and **PGEE 2026 with AIR:146**
 - 📊 Strong fundamentals in **Computer Science subjects** through GATE preparation  
 - 🛠️ Projects: **Weather App (API-based)**, **Tic Tac Toe Game (JavaScript)**, **Razorpay Clone (Tailwind CSS)**  
 - 📫 Reach me at **vmaddy961@gmail.com**  
